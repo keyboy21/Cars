@@ -1,23 +1,23 @@
 import "./App.css";
-import Bg1 from "./img/1956_chevrolet_bel_air_sport_coupe_96836_1920x1200.jpg";
-import Bg2 from "./img/bmw_325i_e30_white_auto_93276_1920x1200.jpg";
-import Bg3 from "./img/bugatti_chiron_side_view_blue_110214_1920x1200.jpg";
-import Bg4 from "./img/volkswagen_karmann_ghia_side_view_1973_105116_1920x1200.jpg";
-import Photo1 from "./img/Canada-–-Sports-Car-Sales-Figures.png";
-import Photo2 from "./img/Chevrolet-Corvette.jpg";
-import Photo3 from "./img/54cb3f0006a9b_-_revved-up-01-0714-lgn.jpg";
-import Photo4 from "./img/2021-Maserati-MC20-coupe-white-1001x565-1.jpg";
-import Photo45 from "./img/2014-Ford-Transit-Connect-Wagon-promo.jpg";
-import Photo46 from "./img/2019-Ford-Mustang-GT-Coupe-Yellow-Peter-Anderson-1200x800p-1_0.jpg";
-import Photo5 from "./img/honda_odyssey__0037-source.jpg";
-import Photo6 from "./img/thumb_4970_default_large.jpeg";
-import Photo66 from "./img/thumbnail_Kenzie-2021-Chrysler-Grand-Caravan-SUPP.jpg";
-import Photo67 from "./img/front-lm-kv-190416-1-2880x1480-1555452460.jpg";
-import Photo68 from "./img/2014-Ford-Transit-Connect-Wagon-promo.jpg";
-import Photo7 from "./img/toyota-yaris-rendered-as-a-crossover-looks-like-a-mazda-copy-140274_1.jpg";
-import Photo8 from "./img/Volkswagen_2020_T-Cross_Life_White_Crossover_591437_1280x853.jpg";
-import Photo10 from "./img/2021_Chevrolet_TrailBlazer_RS_AWD,_front_7.11.20.jpg";
-import Photo11 from "./img/seltos2.jpg";
+import Bg1 from "./img/1956_chevrolet_bel_air_sport_coupe_96836_1920x1200.webp";
+import Bg2 from "./img/bmw_325i_e30_white_auto_93276_1920x1200.webp";
+import Bg3 from "./img/bugatti_chiron_side_view_blue_110214_1920x1200.webp";
+import Bg4 from "./img/volkswagen_karmann_ghia_side_view_1973_105116_1920x1200.webp";
+import Photo1 from "./img/Canada-–-Sports-Car-Sales-Figures.webp";
+import Photo2 from "./img/Chevrolet-Corvette.webp";
+import Photo3 from "./img/54cb3f0006a9b_-_revved-up-01-0714-lgn.webp";
+import Photo4 from "./img/2021-Maserati-MC20-coupe-white-1001x565-1.webp";
+import Photo45 from "./img/2014-Ford-Transit-Connect-Wagon-promo.webp";
+import Photo46 from "./img/2019-Ford-Mustang-GT-Coupe-Yellow-Peter-Anderson-1200x800p-1_0.webp";
+import Photo5 from "./img/honda_odyssey__0037-source.webp";
+import Photo6 from "./img/thumb_4970_default_large.webp";
+import Photo66 from "./img/thumbnail_Kenzie-2021-Chrysler-Grand-Caravan-SUPP.webp";
+import Photo67 from "./img/front-lm-kv-190416-1-2880x1480-1555452460.webp";
+import Photo68 from "./img/2014-Ford-Transit-Connect-Wagon-promo.webp";
+import Photo7 from "./img/toyota-yaris-rendered-as-a-crossover-looks-like-a-mazda-copy-140274_1.webp";
+import Photo8 from "./img/Volkswagen_2020_T-Cross_Life_White_Crossover_591437_1280x853.webp";
+import Photo10 from "./img/2021_Chevrolet_TrailBlazer_RS_AWD,_front_7.11.20.webp";
+import Photo11 from "./img/seltos2.webp";
 
 function App() {
   return (
@@ -148,77 +148,77 @@ function App() {
                 <div className="iso-box-wrapper col4-iso-box">
                   <div className="iso-box sport col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo1}>
-                      <img src={Photo1} alt="Image" className="img-fluid" />
+                      <img src={Photo1} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box sport col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo2}>
-                      <img src={Photo2} alt="Image" className="img-fluid" />
+                      <img src={Photo2} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box sport col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo3}>
-                      <img src={Photo3} alt="Image" className="img-fluid" />
+                      <img src={Photo3} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box sport col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo4}>
-                      <img src={Photo4} alt="Image" className="img-fluid" />
+                      <img src={Photo4} alt="" className="img-fluid" />
                     </a>
                   </div>
-                  <div className="iso-box sport col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
+                  <div className="iso-box minivan col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo45}>
-                      <img src={Photo45} alt="Image" className="img-fluid" />
+                      <img src={Photo45} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box sport col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo46}>
-                      <img src={Photo46} alt="Image" className="img-fluid" />
+                      <img src={Photo46} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box minivan col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo5}>
-                      <img src={Photo5} alt="Image" className="img-fluid" />
+                      <img src={Photo5} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box minivan col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo6}>
-                      <img src={Photo6} alt="Image" className="img-fluid" />
+                      <img src={Photo6} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box minivan col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo66}>
-                      <img src={Photo66} alt="Image" className="img-fluid" />
+                      <img src={Photo66} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box minivan col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo67}>
-                      <img src={Photo67} alt="Image" className="img-fluid" />
+                      <img src={Photo67} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box minivan col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo68}>
-                      <img src={Photo68} alt="Image" className="img-fluid" />
+                      <img src={Photo68} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box crossover col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo7}>
-                      <img src={Photo7} alt="Image" className="img-fluid" />
+                      <img src={Photo7} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box crossover col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo8}>
-                      <img src={Photo8} alt="Image" className="img-fluid" />
+                      <img src={Photo8} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box  crossover col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo10}>
-                      <img src={Photo10} alt="Image" className="img-fluid" />
+                      <img src={Photo10} alt="" className="img-fluid" />
                     </a>
                   </div>
                   <div className="iso-box  crossover col-6 col-sm-4 col-md-4 col-lg-3 col-xl-3">
                     <a href={Photo11}>
-                      <img src={Photo11} alt="Image" className="img-fluid" />
+                      <img src={Photo11} alt="" className="img-fluid" />
                     </a>
                   </div>
                 </div>
